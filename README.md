@@ -15,7 +15,7 @@ We will use fewer steps to make sure logic runs faster
   after running refactored analyses for 2017 and 2018.
 - Add the VBA_Challenge.vbs script to the Microsoft Visual Basic editor.
 - In this challenge, you’ll edit, or refactor, the Module 2 solution code to loop through all the 
-- data one time in order to collect the same information that you did in this module. 
+  data one time in order to collect the same information that you did in this module. 
 - Then, you’ll determine whether refactoring your code successfully made the VBA script run faster.
 
 ## SUMMARY: Our Statement:
